@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html class="side-header side-header-disable-offcanvas">
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176141661-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-176141661-1');
+</script>
+		<!-- Basic -->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+
+		<title>Managed Cloud Services | Automation | Development | Skynetclouds</title>	
+
+		<meta name="keywords" content="" />
+		<meta name="description" content="">
+		<meta name="author" content="">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+		<!-- Web Fonts  -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light%7CPlayfair+Display:400" rel="stylesheet" type="text/css">
+
+		<!-- Vendor CSS -->
+		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">
+		<link rel="stylesheet" href="vendor/animate/animate.min.css">
+		<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+		<!-- Theme CSS -->
+		<link rel="stylesheet" href="css/theme.css">
+		<link rel="stylesheet" href="css/theme-elements.css">
+		<link rel="stylesheet" href="css/theme-blog.css">
+		<link rel="stylesheet" href="css/theme-shop.css">
+
+		<!-- Current Page CSS -->
+		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
+		<link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
+		<link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
+		
+		<!-- Demo CSS -->
+
+
+		<!-- Skin CSS -->
+		<link rel="stylesheet" href="css/skins/skynet.css"> 
+
+		<!-- Theme Custom CSS -->
+		<link rel="stylesheet" href="css/custom.css">
+
+		<!-- Head Libs -->
+		<script src="vendor/modernizr/modernizr.min.js"></script>
+
+	</head>
+
+	<body class="loading-overlay-showing" data-plugin-page-transition data-loading-overlay data-plugin-options="{'hideDelay': 500}">
+		<div class="loading-overlay">
+			<div class="bounce-loader">
+				<div class="bounce1"></div>
+				<div class="bounce2"></div>
+				<div class="bounce3"></div>
+			</div>
+		</div>
+
+		<div class="body">
+			<header id="header" class="side-header d-flex">
+				<div class="header-body">
+					<div class="header-container container d-flex h-100">
+						<div class="header-column flex-row flex-lg-column justify-content-center h-100">
+							<div class="header-row flex-row justify-content-start justify-content-lg-center py-lg-5">
+								<div class="header-logo">
+									<a href="index.html">
+										<img alt="Porto" width="200" height="98" src="img/logo.png">
+									</a>
+								</div>
+							</div>
+							<div class="header-row header-row-side-header flex-row h-100 pb-lg-5">
+								<div class="side-header-scrollable scrollable colored-slider" data-plugin-scrollable>
+									<div class="scrollable-content">
+										<div class="header-nav header-nav-links header-nav-links-side-header header-nav-links-vertical header-nav-links-vertical-expand header-nav-click-to-open align-self-start">
+											<div class="header-nav-main header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-effect-4 header-nav-main-sub-effect-1">
+												<nav class="collapse">
+													<ul class="nav nav-pills" id="mainNav">
+														<li>
+															<a data-hash class="dropdown-item dropdown-toggle active" href="#home">
+																Home
+															</a>
+															
+														</li>
+														
+														<li>
+                                                        <a data-hash data-hash-offset="68" href="#ourexpertise">Our Expertise</a>
+															
+														</li>
+														<li>
+                                                        <a data-hash data-hash-offset="68" href="#engineering">Engineering</a>
+															
+														</li>
+														<li>
+															<a data-hash data-hash-offset="68" href="#aboutus">About US</a>
+															
+														</li>
+														<li>
+															<a data-hash data-hash-offset="68" href="https://blog.skynetclouds.com" target="_blank">Blog</a>
+															
+														</li>
+													
+														<li>
+															<a data-hash data-hash-offset="68" href="#contactus">
+																Contact US
+															</a>
+															
+														</li>
+													</ul>
+												</nav>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="header-row justify-content-end pb-lg-3">
+								<ul class="header-social-icons social-icons d-none d-sm-block social-icons-clean d-sm-0">
+									<li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/skynetclouds/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+									<li class="social-icons-twitter"><a href="https://twitter.com/Skynetclouds/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+									<li class="social-icons-facebook"><a href="https://www.facebook.com/Skynetclouds/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+									<li class="social-icons-youtube"><a href="https://www.youtube.com/channel/UCuhNL3vQLxgij8vxDGmQFug?view_as=subscriber" target="_blank" title="Youtube"><i class="fab fa-youtube"></i></a></li>									
+								</ul>
+								<p class="d-none d-lg-block text-1 pt-3">© 2020 Skynetclouds. All rights reserved</p>
+								<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main nav">
+									<i class="fas fa-bars"></i>
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+
+			<div role="main" class="main" id="home">
+				<div class="slider-container rev_slider_wrapper" style="height: 100vh;">
+					<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'sliderLayout': 'fullscreen', 'delay': 9000, 'gridwidth': 1170, 'gridheight': 550, 'disableProgressBar': 'on', 'responsiveLevels': [4096,1200,992,300], 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-1 arrow-dark' }, 'bullets': {'enable': true, 'style': 'bullets-style-1', 'h_align': 'center', 'v_align': 'bottom', 'space': 7, 'v_offset': 70, 'h_offset': 0}}}">
+						<ul>
+							<li class="slide-overlay slide-overlay-level-1" data-transition="fade">
+								<img src="img/slides/clouds.jpg"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+
+								
+
+								<div class="tp-caption font-weight-extra-bold text-color-light negative-ls-2"
+									data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"sX:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-x="center"
+									data-y="center" data-voffset="['-60','-60','-60','-85']"
+									data-fontsize="['55','60','60','100']"
+									data-lineheight="['55','55','55','95']" style="z-index: 5;">MANAGED CLOUD SERVICE</div>
+
+								<div class="tp-caption font-weight-light text-center ws-normal"
+									data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2000,"split":"chars","splitdelay":0.04,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
+									data-x="center"
+									data-y="center" data-voffset="['8','8','8','70']"
+									data-width="['570','570','570','1000']"
+									data-fontsize="['30','30','30','50']"
+									data-lineheight="['29','29','29','60']"
+									style="color: #e0e0e0; z-index: 5;"><strong class="text-color-light">AWS | Google | Azure | Oracle </strong></div>
+								<div class="tp-dottedoverlay tp-opacity-overlay-light bg-color-primary opacity-3"></div>
+							</li>
+							<li class="slide-overlay slide-overlay-level-1" data-transition="fade">
+								<img src="img/slides/support.png"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+
+								
+
+								<div class="tp-caption font-weight-extra-bold text-color-light negative-ls-2"
+									data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"sX:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-x="center"
+									data-y="center" data-voffset="['-60','-60','-60','-85']"
+									data-fontsize="['55','60','60','100']"
+									data-lineheight="['55','55','55','95']" style="z-index: 5;">CONSULTING & SUPPORT</div>
+
+								<div class="tp-caption font-weight-light text-center ws-normal"
+									data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2000,"split":"chars","splitdelay":0.04,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
+									data-x="center"
+									data-y="center" data-voffset="['8','8','8','70']"
+									data-width="['570','570','570','1000']"
+									data-fontsize="['30','30','30','50']"
+									data-lineheight="['29','29','29','60']"
+									style="color: #e0e0e0; z-index: 5;"><strong class="text-color-light">DevOps | Data Engineer </strong></div>
+								<div class="tp-dottedoverlay tp-opacity-overlay-light bg-color-primary opacity-3"></div>
+							</li>
+							<li class="slide-overlay slide-overlay-level-1" data-transition="fade">
+								<img src="img/slides/automation.png"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+
+								
+
+								<div class="tp-caption font-weight-extra-bold text-color-light negative-ls-2"
+									data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"sX:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+									data-x="center"
+									data-y="center" data-voffset="['-60','-60','-60','-85']"
+									data-fontsize="['55','60','60','100']"
+									data-lineheight="['55','55','55','95']" style="z-index: 5;">DEVELOPMENT & AUTOMATION</div>
+
+								<div class="tp-caption font-weight-light text-center ws-normal"
+									data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2000,"split":"chars","splitdelay":0.04,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
+									data-x="center"
+									data-y="center" data-voffset="['8','8','8','70']"
+									data-width="['570','570','570','1000']"
+									data-fontsize="['30','30','30','50']"
+									data-lineheight="['29','29','29','60']"
+									style="color: #e0e0e0; z-index: 5;"><strong class="text-color-light">Automation | Web | Mobile | SEO </strong></div>
+								<div class="tp-dottedoverlay tp-opacity-overlay-light bg-color-primary opacity-3"></div>
+							</li>
+                           
+						</ul>
+					</div>
+				</div>
+
+				<div class="container py-2 my-5">
+					<div class="row text-center">
+						<div class="col-md-10 mx-md-auto">
+							<h1 class="word-rotator-title font-weight-bold text-8 mb-3 appear-animation" data-appear-animation="fadeInUpShorter">
+								Looking for a <strong>CLOUD EXPERT ?</strong> 
+							</h1>
+							<p class="lead text-4 font-weight-normal appear-animation animated appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
+								We are the best in the industry for Cloud consulting and committed to deliver cost optimized and 100% utilized environments for your applications. Our services are scalable so that you can adapt changes at any point of your business.
+							</p>
+						</div>
+                        
+					</div>
+                    
+					<div class="row ">
+						
+						<div class="col text-center">
+								<a href="#contactus" data-hash data-hash-offset="68" class="btn btn-primary font-weight-semibold rounded-0 text-3 px-5 btn-py-3">Contact Us</a>
+							</div>
+					</div>
+				</div>
+				
+				<section class="section bg-color-grey-scale-1 section-height-3 border-0 m-0 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" style="animation-delay: 100ms;">
+                
+					<div class="container" id="ourexpertise">
+                    <h2 class=" line-height-1 mb-5 text-center">Our <span class="font-weight-bold">Expertise</span></h2>
+						<div class="row justify-content-center">
+                        
+							<div class="col-sm-10 col-md-7 col-lg-4 mb-4 mb-lg-0 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+								<div class="featured-boxes featured-boxes-modern-style-1">
+									<div class="featured-box overlay overlay-show" style="height: 333.4px;">
+										<div class="featured-box-background" style="background-image: url(img/slides/aws.jpg); background-size: cover; background-position: center;"></div>
+										<div class="box-content px-lg-4 px-xl-5 py-lg-5">
+											
+                                            <img src="img/slides/aws.png" width="114"class="pb-4" >
+                                            
+											<h2>CLOUD SERVICES</h2>
+											<p class="text-color-light">We provide expert advice, consulting, and implementation of AWS, Google, Azure & Oracle Cloud.</p>
+                                            <ul class="text-color-light text-left"><li>Dedicated team leads</li>
+<li>Flexible support plans</li><li>
+DevOps Services</li></ul>
+												 <a href="#contactus" data-hash data-hash-offset="68" class="btn btn-light-2 btn-outline font-weight-semibold btn-px-5 btn-py-2 border-width-1 text-1">TALK US</a> 
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-10 col-md-7 col-lg-4 mb-4 mb-lg-0 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400" style="animation-delay: 400ms;">
+								<div class="featured-boxes featured-boxes-modern-style-2 featured-boxes-modern-style-primary">
+									<div class="featured-box" style="height: 333.4px;">
+										<div class="box-content px-lg-4 px-xl-5 py-lg-5">
+											<img src="img/slides/consulting.png" width="80"class="pb-4" >
+											<h2>CONSULTING</h2>
+											<p class="text-color-dark">We bridge the gap between technology and your requirements. </p>
+                                            <ul class="text-color-dark text-left"><li>Business focus</li>
+<li>Delivery excellence</li><li>
+Technology-fueled innovation</li></ul>
+											 <a href="#contactus" data-hash data-hash-offset="68" class="btn btn-light btn-outline font-weight-semibold text-color-dark btn-px-5 btn-py-2 border-width-1 text-1">TALK US</a> 
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-10 col-md-7 col-lg-4 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" style="animation-delay: 600ms;">
+								<div class="featured-boxes featured-boxes-modern-style-1">
+									<div class="featured-box overlay overlay-show" style="height: 333.4px;">
+										<div class="featured-box-background" style="background-image: url(img/slides/aws.jpg); background-size: cover; background-position: center;"></div>
+										<div class="box-content px-lg-4 px-xl-5 py-lg-5">
+											<img src="img/slides/dev.png" width="80"class="pb-4" >
+                                            
+											<h2>DEVELOPMENT</h2>
+											<p class="text-color-light">We offer a full-range of Application Development services.</p>
+                                            <ul class="text-color-light text-left"><li>Custom Application development</li>
+<li>Mobile development</li><li>Digital Marketing</li><li>Business Analytics</li><li>
+Test Automation & QA</li></ul>
+											<a href="#contactus" data-hash data-hash-offset="68" class="btn btn-light-2 btn-outline font-weight-semibold btn-px-5 btn-py-2 border-width-1 text-1">TALK US</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+                
+				<div class="d-flex justify-content-center pt-5 pb-5 my-5" id="engineering">
+					
+						<div class="col-lg-8 text-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="100">
+							<h2 class="font-weight-bold mb-3">Engineering</h2>
+							<p >We are the best in the business when it comes to cloud computing. Additionally we develop software for web applications and mobile. Our engineering department is spending time in R&D for cloud solutions and cloud product designs. Within few months our products will be available in market. Currently we are concentrating on cloud backup solutions, security in cloud applications and automating workloads in cloud space. This will surely help normal end user to gain the advantage of cloud computing. Our products will surely simplify your requirements and easy to use.</p>
+						</div>
+					
+				</div>
+                    
+				</div>
+                <section class="section section-dark section-height-4 border-0 m-0">
+					<div class="container  bg-color-dark" id="aboutus">
+					<div class="row align-items-center text-center ">
+						<div class="col-lg-12 mb-5 mb-lg-0">
+							<h2 class="font-weight-bold text-6 line-height-1 ls-0 mb-4">About Us</h2>
+							<p class="text-4">Our team consists of US, Thailand and India's most experienced Cloud Solution Architects, Consultants & Developers who listen and study your business requirements. We convert your business to a scalable and high available applications. We will monitor and protect your business from vulnerability and hackers.</p>
+							
+							
+						</div>
+						
+					</div>
+                    <div class="row justify-content-center counters counters-lg pt-1 mt-1">
+						<div class="col-md-2 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="500" style="animation-delay: 500ms;">
+							<div class="counter counter-with-unit counter-unit-on-top">
+								<strong class=" font-weight-extra-bold text-13 text-lg-15 text-orange" data-to="32">58</strong>
+								<label class="font-weight-normal text-3 text-lg-4 px-5 px-lg-4">Clients</label>
+							</div>
+						</div>
+						<div class="col-md-2 col-lg-2 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="300" style="animation-delay: 300ms;">
+							<div class="counter counter-with-unit counter-unit-on-top">
+								<strong class=" font-weight-extra-bold text-13 text-lg-15 text-orange" data-to="41">34</strong>
+																<label class="font-weight-normal text-3 text-lg-4 px-5">Projects</label>
+							</div>
+						</div>
+                        <div class="col-md-2 col-lg-2 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="300" style="animation-delay: 300ms;">
+							<div class="counter counter-with-unit counter-unit-on-top">
+								<strong class="text-orange font-weight-extra-bold text-13 text-lg-15" data-to="85">89</strong>
+								<label class="font-weight-normal text-3 text-lg-4 px-2">Consultations</label>
+							</div>
+						</div>
+						<div class="col-md-2 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500" style="animation-delay: 500ms;">
+							<div class="counter counter-with-unit counter-unit-on-top">
+								<strong class="text-orange font-weight-extra-bold text-13 text-lg-15" data-to="17">19</strong>
+								<label class="font-weight-normal text-3 text-lg-4 px-1">Implementation</label>
+							</div>
+						</div>
+					</div>
+				</div>
+				</section>
+
+                
+				<div class="container pb-2">
+					<div class="row py-4 my-4">
+						<div class="col">
+					
+							<div class="owl-carousel owl-theme mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 1}, '768': {'items': 5}, '992': {'items': 7}, '1200': {'items': 7}}, 'autoplay': true, 'autoplayTimeout': 3000, 'dots': false}">
+								<div>
+									<img class="img-fluid opacity-2" src="img/logos/logo-1.png" alt="">
+								</div>
+								<div>
+									<img class="img-fluid opacity-2" src="img/logos/logo-2.png" alt="">
+								</div>
+								<div>
+									<img class="img-fluid opacity-2" src="img/logos/logo-3.png" alt="">
+								</div>
+								<div>
+									<img class="img-fluid opacity-2" src="img/logos/logo-4.png" alt="">
+								</div>
+								
+							</div>
+							
+						</div>
+					</div>
+				</div>
+
+				<section class="section bg-color-primary section-height-2 border-0 mt-4 mb-0">
+					<div class="container">
+
+						<div class="row">
+							<div class="col-md-10 py-3 mx-md-auto">
+								<div class="row pt-2 clearfix">
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 reverse appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" style="animation-delay: 100ms;">
+											<div class="feature-box-icon">
+												<i class="icon-social-soundcloud icons text-color-light"></i>
+                                                
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">Managed Cloud Service</h4>
+												<p class="mb-4 text-color-light opacity-6">Our experienced cloud experts will help to design, build, run and support your workloads efficiently so that you can focus on developing your business. No long term contracts and no lock in's either. Pay only for what you want from us.</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" style="animation-delay: 100ms;">
+											<div class="feature-box-icon">
+												<i class="icon-arrow-right-circle icons text-color-light"></i>
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">Enterprise Transformation</h4>
+												<p class="mb-4 text-color-light opacity-6">Synetclouds balance our deep experience in large-scale enterprise systems with agile technologies and practices to deliver strategies and frameworks that enable flexible and competitive business models.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 reverse appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+											<div class="feature-box-icon">
+												<i class="icon-question icons text-color-light"></i>
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">Why you need us</h4>
+												<p class="mb-4 text-color-light opacity-6">Skynetclouds architects, deploys and manages multi-platform hybrid IT solutions for the enterprise, including traditional IT, public, private and hybrid clouds.</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+											<div class="feature-box-icon">
+												<i class="icon-briefcase icons text-color-light"></i>
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">The cloud for modern business</h4>
+												<p class="mb-4 text-color-light opacity-6">Move faster, Save money, Integrate on premises apps and data. Elastically scale your business to meet demand. Accelerate your Cloud success with rich platform services</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 reverse appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400" style="animation-delay: 400ms;">
+											<div class="feature-box-icon">
+												<i class="icon-lock icons text-color-light"></i>
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">Security for cloud solutions</h4>
+												<p class="mb-0 text-color-light opacity-6">Security is the key for customer satisfaction. Skynetclouds reduce your Infrastructure CAPEX but increase your IT security. All our solutions and implementations are bullet proof secure..</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="400" style="animation-delay: 400ms;">
+											<div class="feature-box-icon">
+												<i class="icon-umbrella icons text-color-light"></i>
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">Plan your Disaster site in cloud</h4>
+												<p class="mb-0 text-color-light opacity-6">Cloud is a good option to host your disaster recovery site. This helps in business continuity, increase speed and agility. Skynetclouds help to design your DR with RTO and RPO values.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+                                \<div class="row">
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 reverse appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400" style="animation-delay: 400ms;">
+											<div class="feature-box-icon">
+												<i class="icon-bulb icons text-color-light"></i>
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">Industry-specific knowledge</h4>
+												<p class="mb-0 text-color-light opacity-6">Leading knowledge in the field of cloud technologies. Proficiency with AWS, Azure and Openstack deployment.Scalability and resource optimization ensure lowest possible variable operating costs.</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-6">
+										<div class="feature-box feature-box-style-2 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="400" style="animation-delay: 400ms;">
+											<div class="feature-box-icon">
+												<i class="icon-basket-loaded icons text-color-light"></i>
+											</div>
+											<div class="feature-box-info">
+												<h4 class="mb-2 text-5 text-color-light">Benefits from us</h4>
+												<p class="mb-0 text-color-light opacity-6">One-stop service provider for your IT needs. Round the clock support with proper SLA driven support.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+				</section>
+<section class= "section-dark">
+				<div class="container " id="contactus">
+
+					<div class="row py-4" >
+						<div class="col-lg-6">
+
+							<div class="overflow-hidden mb-1">
+								<h2 class="font-weight-normal text-7 mt-2 mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="200" style="animation-delay: 200ms;"><strong class="font-weight-extra-bold">Contact</strong> Us</h2>
+							</div>
+							<div class="overflow-hidden mb-4 pb-3">
+								<p class="mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="400" style="animation-delay: 400ms;">Let’s discuss how we can help with your cloud journey. Our experts are standing by to talk about your migration, modernisation, development and skills challenges.</p>
+							</div>
+
+						
+									<form id="contactForm" class="contact-form form-style-2 pr-xl-5" action="mail.php" method="POST">
+										<div class="contact-form-success alert alert-success d-none mt-4" id="contactSuccess">
+											<strong>Success!</strong> Your message has been sent to us.
+										</div>
+				
+										<div class="contact-form-error alert alert-danger d-none mt-4" id="contactError">
+											<strong>Error!</strong> There was an error sending your message.
+											<span class="mail-error-message text-1 d-block" id="mailErrorMessage"></span>
+										</div>
+										
+										<div class="form-row">
+											<div class="form-group col-xl-4">
+												<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" placeholder="Name" required>
+											</div>
+											<div class="form-group col-xl-8">
+												<input type="email" value="" data-msg-required="Please enter your email address." name="email" data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" placeholder="Email" required>
+											</div>
+										</div>
+										<div class="form-row">
+											<div class="form-group col">
+												<input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+											</div>
+										</div>
+										<div class="form-row">
+											<div class="form-group col">
+												<textarea maxlength="5000" data-msg-required="Please enter your message." rows="4" class="form-control" name="message" id="message" placeholder="Message" required></textarea>
+											</div>
+										</div>
+										<div class="form-row">
+											<div class="form-group col">
+												<input type="submit" value="SUBMIT" class="btn btn-primary btn-rounded font-weight-semibold px-5 btn-py-2 text-2" name="submit" data-loading-text="Loading...">
+											</div>
+										</div>
+									</form>
+								
+
+						</div>
+						<div class="col-lg-6">
+
+							<div class="appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="800" style="animation-delay: 800ms;">
+                            
+							<p class="mb-0 text-3">We are in Thailand and serving globally. Shoot us an email, give us a call, or fill out our Project Brief if you're interested in getting started. We look forward to learning more about you !</p>
+								<h4 class="mt-2 mb-1 ">Our <strong>Office</strong></h4>
+								<ul class="list list-icons list-icons-style-2 mt-2">
+									<li><i class="fas fa-map-marker-alt top-6"></i> <strong class="text-light">Address :</strong><br>115/18 Ban Nonglad, Nongmek, Nonghan, Udonthani 41130</br></li>
+									
+									<li><i class="fas fa-phone top-6"></i> <strong class="text-light">Phone :</strong> +66 94 942 2926</li>
+									<li><i class="fas fa-envelope top-6"></i> <strong class="text-light">Email :</strong> <a href="mailto:info@skynetclouds.com">info@skynetclouds.com</a></li>
+								</ul>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+</section>
+			</div>
+ 
+			<footer id="footer" class="footer-top-border bg-color-light-scale-1 mt-0">
+				<div class="footer-copyright bg-color-light-scale-1">
+					<div class="container-fluid py-2">
+						<div class="row py-4">
+							<div class="col-md-6">
+								<p class="d-lg-none"><strong>Skynetclouds</strong> - © Copyright 2020 - All Rights Reserved.</p>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+
+		<!-- Vendor -->
+		<script src="vendor/jquery/jquery.min.js"></script>
+		<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+		<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+		<script src="vendor/jquery.cookie/jquery.cookie.min.js"></script>
+		<script src="vendor/popper/umd/popper.min.js"></script>
+		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+		<script src="vendor/common/common.min.js"></script>
+		<script src="vendor/jquery.validation/jquery.validate.min.js"></script>
+		<script src="vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
+		<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+		<script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+		<script src="vendor/isotope/jquery.isotope.min.js"></script>
+		<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+		<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script src="vendor/vide/jquery.vide.min.js"></script>
+		<script src="vendor/vivus/vivus.min.js"></script>
+		
+		
+		<!-- Theme Base, Components and Settings -->
+		<script src="js/theme.js"></script>
+		
+		<!-- Current Page Vendor and Views -->
+		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+		
+		<!-- Theme Custom -->
+		<script src="js/custom.js"></script>
+		
+		<!-- Theme Initialization Files -->
+		<script src="js/theme.init.js"></script>
+<!-- Examples -->
+		<script src="js/examples/examples.portfolio.js"></script>
+
+	</body>
+</html>
